@@ -3,7 +3,8 @@ Contians the practice questions and answers for the DSA and CPP class in Industr
 
 ## Student Details
 Name: Alan James \
-LPU RegNo: 12213701
+LPU RegNo: 12213701 \
+Section: KS001
 
 ## Mentor
 Name: Adhiraj \
