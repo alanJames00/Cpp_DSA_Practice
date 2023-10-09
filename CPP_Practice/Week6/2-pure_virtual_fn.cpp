@@ -53,10 +53,22 @@ class Circle : public Shape {
 
 int main(){
 
-
+    Shape* shape;
 
     Square s1(5);
     Circle c1(5);
+
+    return 0;
+
     
+    shape = &s1; 
+    int a1 = shape->calculate_area();
+
+    shape = &c1;
+    int a2 = shape->calculate_area();
+
+    cout << "Area fo square is : "<<a1<<endl;
+    cout << "Area fo Circle is : "<<a2<<endl;
+
     return 0;
 }
