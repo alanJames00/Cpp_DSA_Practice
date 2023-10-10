@@ -1,5 +1,5 @@
 # Cpp_DSA_Practice
-Contians the practice questions and answers for the DSA and CPP class in Industry Mentorship Program in LPU.
+Contains the practice questions and answers for the DSA and CPP class in Industry Mentorship Program in LPU.
 
 ## Student Details
 Name: Alan James \
